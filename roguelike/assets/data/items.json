@@ -1,0 +1,10 @@
+[
+  { "type": "potion", "name": "Small Potion",  "value": 15, "minFloor": 1, "weight": 6 },
+  { "type": "potion", "name": "Big Potion",    "value": 30, "minFloor": 2, "weight": 4 },
+  { "type": "weapon", "name": "Dagger",        "value": 2,  "minFloor": 1, "weight": 2 },
+  { "type": "weapon", "name": "Sword",         "value": 4,  "minFloor": 2, "weight": 2 },
+  { "type": "weapon", "name": "War Axe",       "value": 6,  "minFloor": 3, "weight": 1 },
+  { "type": "armor",  "name": "Leather Armor", "value": 1,  "minFloor": 1, "weight": 2 },
+  { "type": "armor",  "name": "Chain Mail",    "value": 3,  "minFloor": 2, "weight": 2 },
+  { "type": "armor",  "name": "Plate Armor",   "value": 5,  "minFloor": 4, "weight": 1 }
+]

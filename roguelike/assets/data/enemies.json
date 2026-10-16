@@ -1,0 +1,7 @@
+[
+  { "name": "Rat",      "glyph": "r", "hp": 6,  "attack": 3,  "defense": 0, "sight": 7, "score": 10,  "minFloor": 1 },
+  { "name": "Goblin",   "glyph": "g", "hp": 12, "attack": 5,  "defense": 1, "sight": 8, "score": 20,  "minFloor": 1 },
+  { "name": "Skeleton", "glyph": "s", "hp": 18, "attack": 7,  "defense": 2, "sight": 8, "score": 35,  "minFloor": 2 },
+  { "name": "Orc",      "glyph": "o", "hp": 28, "attack": 9,  "defense": 3, "sight": 9, "score": 60,  "minFloor": 3 },
+  { "name": "Troll",    "glyph": "T", "hp": 45, "attack": 11, "defense": 4, "sight": 9, "score": 120, "minFloor": 4 }
+]
